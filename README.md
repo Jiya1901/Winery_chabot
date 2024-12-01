@@ -1,3 +1,4 @@
+![Screenshot 2024-11-10 222012](https://github.com/user-attachments/assets/34c78fce-d587-4e82-bdaa-33b0f2c1e2e4)
 # VineWise 🍇 - Vineyard Tourism Chatbot
 
 Welcome to **VineWise**, an AI-powered chatbot designed to answer your queries related to vineyard tourism! Using advanced Retrieval-Augmented Generation (RAG) and language models, VineWise provides accurate and context-aware answers based on PDF documents you upload.
