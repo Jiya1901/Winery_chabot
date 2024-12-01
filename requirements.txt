@@ -1,0 +1,9 @@
+Dependencies
+
+Python Libraries:
+
+	dotenv - Load environment variables.
+	streamlit - Build the web interface.
+	PyPDF2 - Extract text from PDF files.
+	langchain - Process text, create embeddings, and load QA chains.
+	FAISS - Perform similarity search on the knowledge base.
