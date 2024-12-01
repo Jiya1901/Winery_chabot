@@ -1,4 +1,4 @@
-![Screenshot 2024-12-01 221309](https://github.com/user-attachments/assets/ecea097d-f1b5-4f4f-9dc3-f6a92ea29ab9)
+
 **Solution.AI - Ask Your PDF** 💬
 Welcome to Solution.AI, a Streamlit-based application that allows you to interact with and ask questions about the content of a PDF file. Powered by cutting-edge AI tools, the app extracts text from a PDF, processes it into manageable chunks, and uses an LLM-powered Question Answering (QA) chain to answer user queries.
 _____________________________________________________________________________________________________
