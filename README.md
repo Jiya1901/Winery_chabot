@@ -114,8 +114,8 @@ The project requires the following Python libraries and tools:
 
 ---
 
-##**Future Enhancements**
--Support for multi-file uploads.
--Add persistent storage for knowledge bases.
--Extend the chatbot to handle non-PDF file formats.
--Introduce multilingual support.
+## **Future Enhancements**
+- Support for multi-file uploads.
+- Add persistent storage for knowledge bases.
+- Extend the chatbot to handle non-PDF file formats.
+- Introduce multilingual support.
